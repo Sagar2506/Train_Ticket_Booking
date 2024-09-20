@@ -13,7 +13,3 @@
 - **Simple Navigation**: Options to book, cancel, and exit the application.
 
 This is a lightweight project focused on core ticket booking functionalities without the complexity of external databases.
-
----
-
-Let me know if that works for you!
